@@ -10,10 +10,14 @@ A criptografia de dados é uma solução de segurança versátil: pode ser aplic
 
 O sistema binário ou de base 2 é um sistema de numeração posicional em que todas as quantidades se representam com base em dois números, ou seja, zero e um (0 e 1).
 
+[Binario](https://github.com/brunohendias/Bases/blob/master/binario)
+
 ## Hexadecimal
 
 O sistema hexadecimal é um sistema de numeração posicional que representa os números em base 16, portanto empregando 16 símbolo. 
 Para completar o sistema. O conjunto de símbolos fica, portanto, assim (0 , 1 , 2 , 3 , 4 , 5 , 6 , 7 , 8 , 9 , A , B , C , D , E , F)
+
+[Hexadecimal](https://github.com/brunohendias/Bases/blob/master/hexadecimal)
 
 ## Cifra de cezar (ROT13)
 
@@ -21,3 +25,13 @@ Em criptografia, a Cifra de César, também conhecida como cifra de troca, códi
 É um tipo de cifra de substituição na qual cada letra do texto é substituída por outra, que se apresenta no alfabeto abaixo dela um número fixo de vezes. 
 Por exemplo, com uma troca de três posições, A seria substituído por D, B se tornaria E, e assim por diante. 
 O nome do método é em homenagem a Júlio César, que o usou para se comunicar com os seus generais.
+
+[Cifra de cezar](https://github.com/brunohendias/Bases/blob/master/ROT13)
+
+## Codigo morse
+
+O Código Morse é um sistema de representação de letras, algarismos e sinais de pontuação através de um sinal codificado enviado de modo intermitente. <br>
+Foi desenvolvido por Samuel Morse em 1835, criador do telégrafo elétrico, dispositivo que utiliza correntes elétricas para controlar eletroímãs que atuam na emissão e na recepção de sinais. <br>
+Uma mensagem codificada em Morse pode ser transmitida de várias maneiras em pulsos curtos e longos
+
+[Codigo morse](https://github.com/brunohendias/Bases/blob/master/codigomorse)
