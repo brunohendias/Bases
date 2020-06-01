@@ -1,0 +1,17 @@
+A • —  	B — • • • 	C — • — • 	D — • •
+E • 	F • • — • 	G — — • 	H • • • •
+I • • 	J • — — — 	K — • — 	L • — • •
+M — — 	N — •		O — — — 	P • — — • 	Q — — • — 
+R • — • S • • • 	T — 		U • • — 	V• • • —
+W • — — X — • • —	Y — • — — 	Z— — • •
+
+•	Ponto ou dit (•) – sinal curto
+•   Traço ou dah (-) – sinal longo 
+•   Intervalo entre caracteres (entre pontos e traços)
+•   Intervalo curto (entre letras)
+•   Intervalo médio (entre palavras)
+•   Intervalo longo (entre frases)
+
+Exemplo: 
+	Frase: Voce aprendeu codigo morse
+	Codigo morse: ...- --- -.-. .   .- .--. .-. . -. -.. . ..-   -.-. --- -.. .. --. ---   -- --- .-. ... .
